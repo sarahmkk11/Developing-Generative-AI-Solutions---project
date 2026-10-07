@@ -1,4 +1,3 @@
-# Developing-Generative-AI-Solutions---project
 # SmartAssistant: RAG Pipeline with Telegram Integration
 
 SmartAssistant is a notebook-based study assistant that retrieves information from three text documents and uses Google Gemini to generate answers from the retrieved context. A Telegram bot provides an interface for questions, document search, summaries, and practice quizzes.
@@ -9,6 +8,7 @@ The project implements **Option 1: Foundational Data Pipeline for Retrieval-Augm
 
 This project was developed as part of the **Generative AI Solutions Development Program (تطوير حلول الذكاء الاصطناعي التوليدي)** at **SDAIA Academy**.
 
+- **Developer:** Sarah Alkanhal
 - **Academy GitHub:** [SDAIAAcademy](https://github.com/SDAIAAcademy)
 - **Project option:** Foundational Data Pipeline for Retrieval-Augmented Generation (RAG)
 
