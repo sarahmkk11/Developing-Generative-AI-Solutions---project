@@ -8,7 +8,7 @@ The project implements **Option 1: Foundational Data Pipeline for Retrieval-Augm
 
 This project was developed as part of the **Generative AI Solutions Development Program (تطوير حلول الذكاء الاصطناعي التوليدي)** at **SDAIA Academy**.
 
-- **Developer:** Sarah Alkanhal
+
 - **Academy GitHub:** [SDAIAAcademy](https://github.com/SDAIAAcademy)
 - **Project option:** Foundational Data Pipeline for Retrieval-Augmented Generation (RAG)
 
